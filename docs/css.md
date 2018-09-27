@@ -46,7 +46,7 @@ If you are interested in learning more about the official CSS specs and future f
     [https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
   - #### CSS Animate
     [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)
-  - #### CSS3 Reference for Hard to remember features
+  - #### Easy to Digest CSS3 Reference
     [https://tympanus.net/codrops/css_reference/](https://tympanus.net/codrops/css_reference/)
   - #### CSS Transitions
     [https://marksheet.io/css-transitions.html](https://marksheet.io/css-transitions.html)
