@@ -40,6 +40,10 @@ If you are interested in learning more about the official CSS specs and future f
     [https://easings.net/](https://easings.net/)
   - #### Clippy - CSS Image Clipping Editor
     [http://bennettfeely.com/clippy/](http://bennettfeely.com/clippy/)
+  - #### CSS Gradient Editor 1
+    [https://uigradients.com/#Maldives](https://uigradients.com/#Maldives)
+  - #### CSS Gradient Editor 2
+    [https://cssgradient.io/](https://cssgradient.io/)
 
 ### Reference
   - #### Must Know CSS Selectors

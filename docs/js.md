@@ -54,24 +54,74 @@
 
 ## JS Concepts
   - ### Promises
+    - #### What is a Promise?
+      [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+    - #### Promise Examples
+      [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+    - #### Promise Basics
+      [https://javascript.info/promise-basics](https://javascript.info/promise-basics)
   - ### Observers
   - ### Proxies
+    - #### Basic Proxy Intro
+      [https://hackernoon.com/introducing-javascript-es6-proxies-1327419ab413](https://hackernoon.com/introducing-javascript-es6-proxies-1327419ab413)
+    - #### Proxy Examples
+      [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
   - ### Web Sockets
+    - Reason for Web Sockets
+      [https://www.websocket.org/quantum.html](https://www.websocket.org/quantum.html)
+    - #### Web Sockets
+      [https://developer.mozilla.org/en-US/docs/Web/API/WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
   - ### WebRTC
+      - #### WebRTC Basics
+        [https://www.html5rocks.com/en/tutorials/webrtc/basics/](https://www.html5rocks.com/en/tutorials/webrtc/basics/)
+      - #### WebRTC Info MDN
+        [https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+      - #### WebRTC Samples
+        [https://webrtc.github.io/samples/](https://webrtc.github.io/samples/)
   - ### Reactive Programming (RxJs)
+    - #### ReactiveX Programming Explained
+      [http://reactivex.io/](http://reactivex.io/)
+    - #### RxJs Project Site
+      [https://rxjs-dev.firebaseapp.com/](https://rxjs-dev.firebaseapp.com/)
+    - #### RxJs Repo
+      [https://github.com/ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
+    - #### Practice
+      [http://reactivex.io/learnrx/](http://reactivex.io/learnrx/)
   - ### Functional Programming
+    - #### Functional Javascript Intro
+      [https://medium.com/javascript-scene/what-is-functional-programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+    - #### Functional Javascript In-Depth
+      [https://opensource.com/article/17/6/functional-javascript](https://opensource.com/article/17/6/functional-javascript)
   - ### Web Workers
+    - #### Web Workers Intro
+      [https://blog.sessionstack.com/building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
+    - #### Web Workers Basics
+      [https://www.html5rocks.com/en/tutorials/workers/basics/](https://www.html5rocks.com/en/tutorials/workers/basics/)
+    - #### Web Workers MDN
+      [https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
   - ### Local Storage
+    - #### Web Storage Concepts
+      [https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+    - #### Local Storage MDN
+      [https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+    - #### Basic Example
+      [https://codeburst.io/using-html5-web-storage](https://codeburst.io/using-html5-web-storage-a450294484bb)
   - ### IndexedDB
-  - ### Cache
+    - #### IndexedDB MDN
+      [https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+    - #### Guide
+      [https://developers.google.com/web/ilt/pwa/working-with-indexeddb](https://developers.google.com/web/ilt/pwa/working-with-indexeddb)
+    - #### Practice App
+      [https://blog.teamtreehouse.com/create-your-own-to-do-app-with-html5-and-indexeddb](https://blog.teamtreehouse.com/create-your-own-to-do-app-with-html5-and-indexeddb)
 
 ## Tools
   - ### Dev Tools
-    - Babel Online JS Editor (Allow you to switch between different ECMAScript Specs)
+    - #### Babel Online JS Editor (Allows you to switch between different ECMAScript Specs)
       [https://babeljs.io/repl](https://babeljs.io/repl)
-    - JSFiddle - One of the best all around online Web Development Editors
+    - #### JSFiddle - One of the best all around online Web Development Editors
       [https://jsfiddle.net/](https://jsfiddle.net/)
-    - JSBin - Rapid Proto-typing and 
+    - #### JSBin - Rapid Proto-typing and the ability to save to Gists
+      [https://jsbin.com/](https://jsbin.com/zaputoy/1/edit?html,output)
 
 ## Packages & Libraries
   - ### WebSockets! - Socket.io
