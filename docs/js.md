@@ -1,4 +1,4 @@
-# Javascript (ES5 -> ES2019)
+# Javascript (ES5 - ES2019)
 
 > JavaScript (JS) is a lightweight interpreted or JIT-compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
 
@@ -7,44 +7,44 @@
   MDN is my goto resource for referencing javascript functionality and keeping track of what ECMA features are
   currently available, browser support, and which methods have been depracated.
 
-  - #### MDN Web Docs - Javascript - Overview and Indepth Explaination
-    [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  #### MDN Web Docs - Javascript - Overview and Indepth Explaination
+  [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## ES5 and Beyond
 
   This section will start with ES5 the current most widely used version of javascript and continue on to ES6 then to the current version of ECMAScript. This section is important as different versions of ECMAScript have different feature sets. It is also important that when trying to master a language that you know where the language is currently at and where it is heading.
 
-  ### ECMA 2014 (ES5)
-  - #### ES5 Language Overview
-    [https://es5.github.io/](https://es5.github.io/)
+  - ### ECMA 2014 (ES5)
+    - #### ES5 Language Overview
+      [https://es5.github.io/](https://es5.github.io/)
 
-  ### ECMA 2015 (ES6)
-  - #### ES6 Official Language Specification
-    [https://www.ecma-international.org/ecma-262/6.0/#sec-array-initializer](https://www.ecma-international.org/ecma-262/6.0/#sec-array-initializer)
-  - #### ES6 New Features: Overview & Comparison
-    [http://es6-features.org/#Constants](http://es6-features.org/#Constants)
-  - #### ES6 Features Indepth
-    [http://exploringjs.com/es6/](http://exploringjs.com/es6/)
+  - ### ECMA 2015 (ES6)
+    - #### ES6 Official Language Specification
+      [https://www.ecma-international.org/ecma-262/6.0/#sec-array-initializer](https://www.ecma-international.org/ecma-262/6.0/#sec-array-initializer)
+    - #### ES6 New Features: Overview & Comparison
+      [http://es6-features.org/#Constants](http://es6-features.org/#Constants)
+    - #### ES6 Features Indepth
+      [http://exploringjs.com/es6/](http://exploringjs.com/es6/)
 
-  ### ECMA 2016 (ES7)
-  - #### ES7 Official Language Specification
-    [https://www.ecma-international.org/ecma-262/7.0/](https://www.ecma-international.org/ecma-262/7.0/)
-  - #### Overview of Small Feature Updates to Language
-    [https://medium.freecodecamp.org/ecmascript-2016-es7-features-86903c5cab70](https://medium.freecodecamp.org/ecmascript-2016-es7-features-86903c5cab70)
+  - ### ECMA 2016 (ES7)
+    - #### ES7 Official Language Specification
+      [https://www.ecma-international.org/ecma-262/7.0/](https://www.ecma-international.org/ecma-262/7.0/)
+    - #### Overview of Small Feature Updates to Language
+      [https://medium.freecodecamp.org/ecmascript-2016-es7-features-86903c5cab70](https://medium.freecodecamp.org/ecmascript-2016-es7-features-86903c5cab70)
 
-  ### ECMA 2017 (ES8)
-  - #### ES8 Official Language Specification
-    [https://www.ecma-international.org/ecma-262/8.0/index.html](https://www.ecma-international.org/ecma-262/8.0/index.html)
-  - #### ES8 Feature Overview
-    [https://medium.freecodecamp.org/es8-the-new-features-of-javascript-7506210a1a22](https://medium.freecodecamp.org/es8-the-new-features-of-javascript-7506210a1a22)
+  - ### ECMA 2017 (ES8)
+    - #### ES8 Official Language Specification
+      [https://www.ecma-international.org/ecma-262/8.0/index.html](https://www.ecma-international.org/ecma-262/8.0/index.html)
+    - #### ES8 Feature Overview
+      [https://medium.freecodecamp.org/es8-the-new-features-of-javascript-7506210a1a22](https://medium.freecodecamp.org/es8-the-new-features-of-javascript-7506210a1a22)
 
-  ### Beyond
-  - #### ECMA 2019 (ES10) Language Specification
-    [https://tc39.github.io/ecma262/](https://tc39.github.io/ecma262/)
-  - #### ECMA 2018 (ES9) Language Specification
-    [https://www.ecma-international.org/ecma-262/9.0/index.html#Title](https://www.ecma-international.org/ecma-262/9.0/index.html#Title)
-  - #### ES2018 (ES9) and ES2019 (ES10) Feature Overview
-    [http://exploringjs.com/es2018-es2019/toc.html](http://exploringjs.com/es2018-es2019/toc.html)
+  - ### Beyond
+    - #### ECMA 2019 (ES10) Language Specification
+      [https://tc39.github.io/ecma262/](https://tc39.github.io/ecma262/)
+    - #### ECMA 2018 (ES9) Language Specification
+      [https://www.ecma-international.org/ecma-262/9.0/index.html#Title](https://www.ecma-international.org/ecma-262/9.0/index.html#Title)
+    - #### ES2018 (ES9) and ES2019 (ES10) Feature Overview
+      [http://exploringjs.com/es2018-es2019/toc.html](http://exploringjs.com/es2018-es2019/toc.html)
 
 ## Resources
   - #### You Don't Know JS - Best Overview of Entire Language
@@ -60,7 +60,6 @@
       [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
     - #### Promise Basics
       [https://javascript.info/promise-basics](https://javascript.info/promise-basics)
-  - ### Observers
   - ### Proxies
     - #### Basic Proxy Intro
       [https://hackernoon.com/introducing-javascript-es6-proxies-1327419ab413](https://hackernoon.com/introducing-javascript-es6-proxies-1327419ab413)
@@ -94,7 +93,7 @@
       [https://opensource.com/article/17/6/functional-javascript](https://opensource.com/article/17/6/functional-javascript)
   - ### Web Workers
     - #### Web Workers Intro
-      [https://blog.sessionstack.com/building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
+      [https://blog.sessionstack.com/building-blocks-of-web-workers](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
     - #### Web Workers Basics
       [https://www.html5rocks.com/en/tutorials/workers/basics/](https://www.html5rocks.com/en/tutorials/workers/basics/)
     - #### Web Workers MDN
@@ -122,6 +121,15 @@
       [https://jsfiddle.net/](https://jsfiddle.net/)
     - #### JSBin - Rapid Proto-typing and the ability to save to Gists
       [https://jsbin.com/](https://jsbin.com/zaputoy/1/edit?html,output)
+  - ### Testing Libraries
+    - #### Javascript Test Libraries Overview
+      [https://medium.com/welldone-software/an-overview-of-javascript-testing](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+    - #### Mocha Testing Library
+      [https://mochajs.org/](https://mochajs.org/)
+    - #### Chai Assertion Library
+      [https://www.chaijs.com/](https://www.chaijs.com/)
+    - #### Jest Snapshot Testing Library
+      [https://jestjs.io/](https://jestjs.io/)
 
 ## Packages & Libraries
   - ### WebSockets! - Socket.io
