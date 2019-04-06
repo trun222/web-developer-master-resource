@@ -1,8 +1,6 @@
 module.exports = {
   title: 'Web Development Master Resource',
   description: 'All things Web Development',
-  base: '/',
-  dest: 'public',
   themeConfig: {
     sidebar: [
       '/',
