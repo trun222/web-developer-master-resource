@@ -1,6 +1,8 @@
 module.exports = {
   title: 'Web Development Master Resource',
   description: 'All things Web Development',
+  docsDir: 'docs',
+  repo: 'tictac232434/netlify-test-true',
   themeConfig: {
     sidebar: [
       '/',
