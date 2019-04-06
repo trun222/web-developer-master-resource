@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Web Development Master Resource',
   description: 'All things Web Development',
-  base: '/frontend-developer-resource/',
+  base: '/',
   dest: 'public',
   themeConfig: {
     sidebar: [
