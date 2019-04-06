@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Get Started →
-actionLink: /docs/general-information
+actionLink: /general-information
 heroText: Web Development Master Resource
 heroImage: /frontend.png
 features:
